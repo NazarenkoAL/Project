@@ -1,0 +1,1 @@
+print('I am from Chernihiv region','My e-mail address is...','Finished')
